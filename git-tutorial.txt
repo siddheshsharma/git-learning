@@ -1,0 +1,8 @@
+Tutorial.
+
+Hello Today is my first lesson on git. 
+
+1.> I am learning the Git init command. 
+To run the git init command you just have to install git and run the git init command. 
+
+git init will initialize a empty repository for you and you can work in that directory and save your work. 
