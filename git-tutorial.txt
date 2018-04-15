@@ -1,6 +1,7 @@
 Tutorial.
 
-Hello Today is my first lesson on git. 
+Hello Today is my first lesson on git.
+Learn from there -- > https://guides.github.com/activities/hello-world/ 
 
 1.> I am learning the Git init command. 
 To run the git init command you just have to install git and run the git init command. 
